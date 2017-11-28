@@ -1,0 +1,37 @@
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.dll
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.pdb
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.DragDropListviewDroid.apk
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.DragDropListviewDroid-Signed.apk
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\DragDropListviewDroid.dll
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\DragDropListviewDroid.pdb
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\android\bin\DragDropListviewDroid.DragDropListviewDroid.apk
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\layout\main.xml
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\values\strings.xml
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\drawable\icon.png
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\R.cs.flag
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\uploadflags.txt
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.dll.mdb
+c:\users\surfer\documents\visual studio 2017\Projects\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\android\assets\DragDropListviewDroid.dll.mdb
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.dll
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.pdb
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.DragDropListviewDroid.apk
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.DragDropListviewDroid-Signed.apk
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\DragDropListviewDroid.csproj.CoreCompileInputs.cache
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\DragDropListviewDroid.dll
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\DragDropListviewDroid.pdb
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\android\bin\DragDropListviewDroid.DragDropListviewDroid.apk
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\layout\main.xml
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\values\strings.xml
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\drawable\icon.png
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\R.cs.flag
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\uploadflags.txt
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\bin\Debug\DragDropListviewDroid.dll.mdb
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\android\assets\DragDropListviewDroid.dll.mdb
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\DragDropListviewDroid.csprojResolveAssemblyReference.cache
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\raw\galaxias.mp3
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\raw\self_control.mp3
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\raw\warning.mp3
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\raw\together_we_ride.mp3
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\raw\great_distance.mp3
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\raw\sand_planet.mp3
+C:\Users\Eclairpse\Desktop\DragDropListviewDroid\DragDropListviewDroid\DragDropListviewDroid\obj\Debug\res\raw\click_clock_wood.mp3
